@@ -1,2 +1,4 @@
 cmake-build-*/
 .idea/
+/SFML-2.6.1
+/out
